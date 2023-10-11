@@ -1,3 +1,4 @@
+You must add .env file to configure port and datababse
 DATABASE = 
 RUNNING_PORT = 
 
